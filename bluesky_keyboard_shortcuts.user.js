@@ -89,7 +89,9 @@ window.onload = function () {
 
         // Find the like button within the focused post
         const likeButton = currentFocusedPost.querySelector(
-            // 'div[aria-label^="Like ("],div[aria-label^="Unlike ("]'
+            // THIS LABEL IS COUNTRY SPECIFIC AND HAS TO BE CHANGED ACCORDINGLY - UNFORTUNATELY THERE IS NO GENERIC LABEL SO I WOULD HAVE TO ADD ANY POSSIBLE NAMES. WHICH I WON'T DO, I THINK IT'S COMPREHENSIBLE ;-)
+            // AT THE MOMENT IT IS SET TO GERMAN - IF YOU USE BLUESKY'S ENGLISH LAYOUT, PLEASE UNCOMMENT THE NEXT LINE AND COMMENT IN THE FOLLOWING LINE 
+            // 'button[aria-label^="Like ("],button[aria-label^="Unlike ("]'
             'button[aria-label^="Liken ("],button[aria-label^="Like aufheben ("]'
         );
         if (likeButton) {
