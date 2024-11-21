@@ -1,5 +1,8 @@
 # BlueSkyKeyboardShortcuts
 
+WARNING: BETA - THIS DOES NOT WORK PROPERLY YET
+BECAUSE IT BLOCKS THE j/k/l/n KEYS COMPLETELY
+
 Imitates the keyboard shortcuts of good old Twitter 
 before it was bought & shittified by Elon
 
