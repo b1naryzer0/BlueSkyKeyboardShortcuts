@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Bluesky Keyboard Shortcuts
 // @namespace    https://bsky.app/profile/fritzr.bsky.social
-// @version      0.01
+// @version      0.02
 // @description  Bluesky Keyboard Shortcuts
 // @author       Fritz R.
 // @match        https://bsky.app/*
