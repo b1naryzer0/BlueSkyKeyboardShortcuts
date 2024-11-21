@@ -7,8 +7,8 @@
 // @match        https://bsky.app/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=bsky.app
 // @grant        none
-// @updateURL
-// @downloadURL
+// @updateURL    https://github.com/b1naryzer0/BlueSkyKeyboardShortcuts/blob/main/bluesky_keyboard_shortcuts.user.js
+// @downloadURL  https://github.com/b1naryzer0/BlueSkyKeyboardShortcuts/blob/main/bluesky_keyboard_shortcuts.user.js
 // @supportURL   https://github.com/b1naryzer0/BlueSkyKeyboardShortcuts
 // @require      https://code.jquery.com/jquery-3.7.0.min.js
 // ==/UserScript==
